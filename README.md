@@ -1,8 +1,8 @@
 # NOTE
 
-This is a close fork of the [Deepfence PacketStreamer Project](https://deepfence.io/packetstreamer).
+This is a fork of the [Deepfence PacketStreamer Project](https://deepfence.io/packetstreamer).
 
-We are only adding cloud build scripts to ease binary distribution of this excellent tool
+Please see releases
 
 
 # PacketStreamer
