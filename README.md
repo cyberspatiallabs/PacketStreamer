@@ -4,6 +4,7 @@ This is a fork of the [Deepfence PacketStreamer Project](https://deepfence.io/pa
 
 Please see releases
 
+See [Releases](https://github.com/cyberspatiallabs/PacketStreamer/releases) for binaries
 
 # PacketStreamer
 
